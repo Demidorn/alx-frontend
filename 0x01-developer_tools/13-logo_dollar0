@@ -1,2 +1,1 @@
-it returns the image element indicating
-it's class, source and alt.
+13-logo_dollar0 doesn't contain: ["<img ", "avatar", "avataaars.svg", "masthead-avatar"]

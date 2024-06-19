@@ -68,14 +68,14 @@ a:link{
     color: var(--color-primary);
 }
 
-a:link:visited {
+a:visited {
     font-style: italic;
 }
 
-a:link:hover {
+a:hover {
     text-decoration: underline;
 }
 
-a:link:active {
+a:active {
     background-color: var(--color-light-grey);
 }

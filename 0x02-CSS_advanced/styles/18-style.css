@@ -495,7 +495,7 @@ a:active {
 
 .nav-link {
     display: block;
-    padding: calc(var(--nav-item-font-size) / 2) var(--nav-item-font-size);
+    padding: var(--font-size-medium) calc(var(--font-size-medium) / 2);
 }
 
 .nav-link:hover {

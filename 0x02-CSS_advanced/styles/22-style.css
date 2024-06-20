@@ -548,3 +548,15 @@ ul.row {
     background-color: var(--color-black);
     --text-color: var(--color-white);
 }
+
+.footer-address {
+    color: var(--text-color);
+}
+
+.social-link {
+    display: block;
+}
+
+.social-link svg {
+    fill: var(--text-color);
+}

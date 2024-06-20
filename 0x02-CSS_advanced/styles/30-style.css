@@ -723,8 +723,9 @@ ul.row {
 
 .card-work .card-inner {
   position: absolute;
-  top: -0.1rem;
-  left: -0.1rem;
+  top: -.1rem;
+  left: -.1rem;
+  right: -.1rem;
   z-index: 1;
 }
 
